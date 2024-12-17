@@ -1,8 +1,5 @@
 # 👋 Hi there!
 
-![Profile Views](https://komarev.com/ghpvc/?username=aspvrn&color=blueviolet)  
-![GitHub Followers](https://img.shields.io/github/followers/aspvrn?label=Follow&style=social)
-
 ---
 
 🌟 **About Me**  
@@ -17,3 +14,7 @@ I'm a passionate **Programmer / Developer** with a love for **AI and Game Dev**.
 ![Frameworks](https://img.shields.io/badge/Frameworks-React,%20Node.js,%20Django-brightgreen)  
 ![Databases](https://img.shields.io/badge/Databases-SQLite,%20MongoDB-orange)  
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=aspvrn&color=blueviolet)  
+![GitHub Followers](https://img.shields.io/github/followers/aspvrn?label=Follow&style=social)
