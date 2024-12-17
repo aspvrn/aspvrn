@@ -5,7 +5,7 @@
 🌟 **About Me**  
 I'm a passionate **Programmer / Developer** with a love for **AI and Game Dev**.  
 🔭 Currently working on **PawPal - A Helping Paw for Every Dog Breeder**  
-🌱 Learning more about **Cloud Computing & Kubernetes**  
+🌱 Learning more about **Rust and Cloud Computing**  
 
 ---
 
