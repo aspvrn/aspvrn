@@ -11,7 +11,7 @@ I'm a passionate **Programmer / Developer** with a love for **AI and Game Dev**.
 
 ### 🚀 Technologies & Tools
 ![Languages](https://img.shields.io/badge/Languages-Python,%20C%23,%20HTML%2FCSS%2FJavaScript-blue)  
-![Frameworks](https://img.shields.io/badge/Frameworks-React,%20Node.js,%20Django-brightgreen)  
+![Frameworks](https://img.shields.io/badge/Frameworks-React,%20Node.js,%20Django,%20Flask-brightgreen)  
 ![Databases](https://img.shields.io/badge/Databases-SQLite,%20MongoDB-orange)  
 
 ---
